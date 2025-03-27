@@ -1,4 +1,4 @@
-
+python /c:/internship/CODSOFT/task1.py
 import os
 
 # File to store tasks
